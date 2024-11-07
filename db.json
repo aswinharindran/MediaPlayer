@@ -1,0 +1,30 @@
+{
+  "uploadVideos": [
+    {
+      "id": "acf5",
+      "caption": "kannil-Kappela",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/en/8/8b/Kappela_The_Movie.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/R44vLHE_poE"
+    }
+  ],
+  "catagories": [
+    {
+      "id": "ebd4",
+      "categoryName": "Trailers",
+      "allVideos": []
+    },
+    {
+      "id": "ac40",
+      "categoryName": "Tutorials",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "caption": "kannil-Kappela",
+      "youTubeLink": "https://www.youtube.com/embed/R44vLHE_poE",
+      "timeStamp": "11/7/2024, 9:15:12 AM GMT+5:30",
+      "id": 1
+    }
+  ]
+}
